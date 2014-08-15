@@ -1,7 +1,7 @@
 title: LOU-EH?
 ========================================================
    
-***Canadian Rental Apartement Comparasion***   
+***Canadian Rental Apartement Analysis Tool***   
 ![alt text](loueh.png)        
   
   
@@ -10,6 +10,7 @@ title: LOU-EH?
     
 author: Ryan Eaton   
 date: 2014-08-13   
+<p style="position:absolute;bottom:10px;right:10px"> 1 of 5  </p>
 
 ========================================================
 left:15%
@@ -19,8 +20,10 @@ left:15%
 **Introduction:**  
 Renting an apartment can represent a sizable portion of ones living expenses**[2]**. I have developed a shiny**[3]** application designed to allow users to compare rental costs via a scatterplot for various Canadian cities.  
 
-Additionnaly the application allows trend lines and certain filters to be added. and will allow the user to link directly to chosen city maps via google maps**[4]**.  Links to various social media options are provided to share the application. 
- 
+Additionnaly the application allows predictions to be generated for rental costs in future years. The user can also quickly find city maps via google maps**[4]**.  Links to various social media options are provided to share the application. 
+
+<p style="position:absolute;bottom:10px;right:10px"> 2 of 5  </p>
+
 ========================================================
 left:15%
 ![alt text](loueh.png)
@@ -47,6 +50,7 @@ dim(d)
 
 
 
+<p style="position:absolute;bottom:10px;right:10px"> 3 of 5  </p>
 
 ========================================================
 left:15%
@@ -59,6 +63,8 @@ left:15%
 
 ***
 ![plot of chunk unnamed-chunk-5](loueh_pitch-figure/unnamed-chunk-5.png) 
+
+<p style="position:absolute;bottom:10px;right:10px"> 4 of 5  </p>
 
 ========================================================
 left:15%
@@ -75,3 +81,4 @@ This application could help people in various situations, whether renting their 
 3.http://shiny.rstudio.com/  
 4.http://en.wikipedia.org/wiki/Google_Maps  
 5.http://data.gc.ca  
+<p style="position:absolute;bottom:10px;right:10px"> 5 of 5  </p>
